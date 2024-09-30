@@ -30,5 +30,7 @@ Le dépôt est organisé de la manière suivante :
 
 - **README.md** : Ce fichier, décrivant le projet, son organisation et les instructions pour l'exécuter.
 
+## **Auteur**
+[Mario Lapi](https://github.com/Mario-Lapi)
 
 
